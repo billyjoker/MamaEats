@@ -9,9 +9,9 @@ Mama Eats is a mobile application dedicated to nutritional information and suppo
 The controller responsible for this application is:
 
 **Mama Eats**  
-**Email:** mamaeats@gmail.com
+**Email:** mama.eats.pregnant.food@gmail.com
 
-If you have questions about this Privacy Policy, you can write to: mamaeats@gmail.com
+If you have questions about this Privacy Policy, you can write to: mama.eats.pregnant.food@gmail.com
 
 ## 2. What data we may collect
 
@@ -99,7 +99,7 @@ Depending on your country and applicable regulations, you may have the right to:
 - Withdraw consent at any time.
 - Request portability, when applicable.
 
-To exercise your rights, write to: mamaeats@gmail.com
+To exercise your rights, write to: mamaeatsgmail.com
 
 ## 10. Minors
 
@@ -119,7 +119,7 @@ The current version will always be the one published within the app or at the in
 
 If you have questions about this Privacy Policy, you can contact:
 
-**Email:** mamaeats@gmail.com
+**Email:** mama.eats.pregnant.food@gmail.com
 
 ---
 

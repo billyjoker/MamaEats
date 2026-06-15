@@ -108,6 +108,10 @@ Depending on your country and applicable regulations, you may have the right to:
 - Withdraw consent at any time.
 - Request portability, when applicable.
 
+Account and Data Deletion Request:
+
+If you wish to delete your Mama Eats account and all associated data, please send us an email at mama.eats.pregnant.food@gmail.com with your request, and we will process it within 72 hours.
+
 To exercise your rights, write to: mama.eats.pregnant.food@gmail.com
 
 ### 10. Minors
@@ -234,6 +238,10 @@ Según tu país y la normativa aplicable, puedes tener derecho a:
 - Retirar el consentimiento en cualquier momento.
 - Solicitar portabilidad, cuando aplique.
 
+Solicitud de Borrado de Cuenta y Datos:
+
+Si deseas eliminar tu cuenta de Mama Eats y todos los datos asociados, por favor envíanos un correo a mama.eats.pregnant.food@gmail.com con tu solicitud y la procesaremos en un plazo de 72 horas.
+
 Para ejercer tus derechos, escribe a: mama.eats.pregnant.food@gmail.com
 
 ### 10. Menores de edad
@@ -359,6 +367,10 @@ Dependendo do seu país e da regulamentação aplicável, você pode ter o direi
 - Opor-se ao processamento.
 - Retirar o consentimento a qualquer momento.
 - Solicitar portabilidade, quando aplicável.
+
+Solicitação de Exclusão de Conta e Dados:
+
+Se você deseja excluir sua conta do Mama Eats e todos os dados associados, por favor envie-nos um e-mail para mama.eats.pregnant.food@gmail.com com a sua solicitação e nós a processaremos em um prazo de 72 horas.
 
 Para exercer seus direitos, escreva para: mama.eats.pregnant.food@gmail.com
 

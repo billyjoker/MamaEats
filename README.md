@@ -13,14 +13,16 @@
 
 Mama Eats is a mobile application dedicated to nutritional information and support for pregnant women. This Privacy Policy explains what data we may collect, how we use it, and what choices you have as a user.
 
-### 1. Data Controller
+## 1. Data Controller (Responsable del Tratamiento de los Datos)
 
-The controller responsible for this application is:
+This Privacy Policy applies to the mobile application **Mama Eats: pregnancy-safe food** (hereinafter, the "Application").
 
-**Mama Eats**  
-**Email:** mama.eats.pregnant.food@gmail.com
+The data controller responsible for the processing of personal data collected through the Application is **Unarenque** (developer account holder), operating commercially under the brand name **Propeller Apps** (hereinafter, the "Developer").
 
-If you have questions about this Privacy Policy, you can write to: mama.eats.pregnant.food@gmail.com
+Any reference in this document to "we", "us", "our", or "the Developer" refers jointly to Unarenque and Propeller Apps.
+
+*   **Application:** Mama Eats: pregnancy-safe food
+*   **Privacy, Support, and Inquiries Contact:** mama.eats.pregnant.food@gmail.com
 
 ### 2. What data we may collect
 
@@ -143,14 +145,16 @@ If you have questions about this Privacy Policy, you can contact:
 
 Mama Eats es una aplicación móvil dedicada a la información y el apoyo nutricional para mujeres embarazadas. Esta Política de Privacidad explica qué datos podemos recoger, cómo los usamos y qué opciones tienes como usuario.
 
-### 1. Responsable del Tratamiento
+## 1. Responsable del Tratamiento de los Datos (Data Controller)
 
-El responsable de esta aplicación es:
+La presente Política de Privacidad se aplica a la aplicación móvil **Mama Eats: pregnancy-safe food** (en adelante, "la Aplicación").
 
-**Mama Eats**  
-**Email:** mama.eats.pregnant.food@gmail.com
+El responsable del tratamiento de los datos personales recogidos a través de la Aplicación es **Unarenque** (titular de la cuenta de desarrollador), operando comercialmente bajo la marca **Propeller Apps** (en adelante, el "Desarrollador").
 
-Si tienes dudas sobre esta Política de Privacidad, puedes escribir a: mama.eats.pregnant.food@gmail.com
+Cualquier mención en este documento a "nosotros", "nuestro" o "el Desarrollador" hace referencia conjunta a Unarenque y Propeller Apps.
+
+*   **Aplicación:** Mama Eats: pregnancy-safe food
+*   **Contacto de Privacidad, Soporte y Consultas:** mama.eats.pregnant.food@gmail.com
 
 ### 2. Qué datos podemos recoger
 
@@ -273,14 +277,16 @@ Si tienes preguntas sobre esta Política de Privacidad, puedes contactar en:
 
 Mama Eats é uma aplicação móvel dedicada a informações e apoio nutricional para mulheres grávidas. Esta Política de Privacidade explica quais dados podemos coletar, como os usamos e quais opções você tem como usuário.
 
-### 1. Responsável pelo Tratamento
+## 1. Responsável pelo Tratamento de Dados (Data Controller)
 
-O responsável por esta aplicação é:
+A presente Política de Privacidade aplica-se à aplicação móvel **Mama Eats: pregnancy-safe food** (doravante designada por "Aplicação").
 
-**Mama Eats**  
-**Email:** mama.eats.pregnant.food@gmail.com
+O responsável pelo tratamento dos dados pessoais recolhidos através da Aplicação é **Unarenque** (titular da conta de desenvolvedor), operando comercialmente sob a marca **Propeller Apps** (doravante designado por "Desenvolvedor").
 
-Se você tiver dúvidas sobre esta Política de Privacidade, pode escrever para: mama.eats.pregnant.food@gmail.com
+Qualquer menção neste documento a "nós", "nosso" ou "o Desenvolvedor" refere-se conjuntamente a Unarenque e Propeller Apps.
+
+*   **Aplicação:** Mama Eats: pregnancy-safe food
+*   **Contato de Privacidade, Suporte e Dúvidas:** mama.eats.pregnant.food@gmail.com
 
 ### 2. Quais dados podemos coletar
 
